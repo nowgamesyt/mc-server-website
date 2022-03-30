@@ -1,2 +1,2 @@
-console.log("TemplateServer");
-console.log("Website by: github.com/OLIMINATOR");
+console.log("EnmentServer");
+console.log("Website by: enment.net");
